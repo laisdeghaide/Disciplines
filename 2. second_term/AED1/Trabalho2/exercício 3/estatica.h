@@ -1,0 +1,16 @@
+typedef struct pilha *Pilha;
+Pilha cria_pilha();
+int pilha_vazia(Pilha p);
+int pilha_cheia(Pilha p);
+int push(Pilha p, int elem);
+int pop(Pilha p, int *elem);
+int le_topo(Pilha p, int *elem);
+Pilha cria_pilhachar();
+int pilha_vaziachar(Pilha p);
+int pilha_cheiachar(Pilha p);
+int pushchar(Pilha p, char elem);
+int popchar(Pilha p, char *elem);
+int le_topochar(Pilha p, char *elem);
+void imprime(Pilha p);
+void imprime_reversa(Pilha p);
+void palindromo(Pilha p, char str[50]);

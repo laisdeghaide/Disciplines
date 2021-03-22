@@ -1,0 +1,15 @@
+typedef struct lista *Lista;
+typedef struct lista *Lista_intercalada;
+Lista cria_lista();
+int lista_vazia(Lista lst);
+int lista_cheia(Lista lst);
+int isere_ord(Lista lst, int elem);
+int remove_ord(Lista lst, int elem);
+void imprime_lista(Lista lst);
+int tamanho(Lista lst);
+int menor(Lista lst);
+Lista remove_pares(Lista lst);
+Lista_intercalada cria_lista_intercalada();
+void imprime_lista_intercalada(Lista_intercalada lst);
+int iguais(Lista lst1, Lista lst2);
+Lista_intercalada intercala(Lista lst1, Lista lst2);

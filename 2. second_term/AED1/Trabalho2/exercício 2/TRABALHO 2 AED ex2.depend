@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1561049814 source:c:\users\laís saloum deghaide\desktop\trabalho 2 aed\trabalho 2 aed ex2\dinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"dinamica.h"
+
+1561049798 c:\users\laís saloum deghaide\desktop\trabalho 2 aed\trabalho 2 aed ex2\dinamica.h
+
+1561049834 source:c:\users\laís saloum deghaide\desktop\trabalho 2 aed\trabalho 2 aed ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dinamica.h"
+

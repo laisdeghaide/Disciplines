@@ -1,0 +1,4 @@
+1) inserir restrição.
+2) remover restrição.
+3) listar restrições.
+4) listar filmes com base nas restrições existentes.

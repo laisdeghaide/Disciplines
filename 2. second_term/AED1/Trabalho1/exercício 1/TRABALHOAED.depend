@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1556057882 source:c:\users\laís saloum deghaide\desktop\trabalhoaed\tad ponto.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD Ponto.h"
+
+1556055228 c:\users\laís saloum deghaide\desktop\trabalhoaed\tad ponto.h
+
+1556057750 source:c:\users\laís saloum deghaide\desktop\trabalhoaed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD Ponto.h"
+
+1556066087 source:c:\users\laís saloum deghaide\desktop\trabalho aed\trabalhoaed ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"TAD Ponto.h"
+
+1556064255 c:\users\laís saloum deghaide\desktop\trabalho aed\trabalhoaed ex1\tad ponto.h
+
+1556064188 source:c:\users\laís saloum deghaide\desktop\trabalho aed\trabalhoaed ex1\tad ponto.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"TAD Ponto.h"
+

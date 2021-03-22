@@ -1,0 +1,3 @@
+Para o k-means com k = 2 a pureza total foi de: 0.67
+Para o k-means com k = 3 a pureza total foi de: 0.89
+Para o k-means com k = 4 a pureza total foi de: 0.89

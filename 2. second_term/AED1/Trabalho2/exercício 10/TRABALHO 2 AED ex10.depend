@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1561510429 source:c:\users\laís saloum deghaide\desktop\trabalho 2 aed\trabalho 2 aed ex10\estatica.c
+	<stdio.h>
+	<stdlib.h>
+	"estatica.h"
+
+1560606168 source:c:\users\laís saloum deghaide\desktop\trabalho 2 aed\trabalho 2 aed ex10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estatica.h"
+
+1560604954 c:\users\laís saloum deghaide\desktop\trabalho 2 aed\trabalho 2 aed ex10\estatica.h
+
+1560606168 source:u:\trabalho 2 aed\trabalho 2 aed ex10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estatica.h"
+
+1560604954 u:\trabalho 2 aed\trabalho 2 aed ex10\estatica.h
+
+1560610796 source:u:\trabalho 2 aed\trabalho 2 aed ex10\estatica.c
+	<stdio.h>
+	<stdlib.h>
+	"estatica.h"
+
